@@ -14,6 +14,6 @@ This  project  is  aimed  at  developing  a  Repository  and  each  Engine  for 
 
 - [www.roomseeker.in](https:/www.roomseeker.in/)
 - [java script and jsp](https://mitinstitute.in/)
-- [servlet](https://medium.com)
-- [Website Templates](https://javatpoint.com/)
+- [servlet and databases](https://medium.com)
+- [help by ](https://javatpoint.com/)
 
